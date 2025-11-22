@@ -24,7 +24,8 @@ How To Use
 1. Put your contacts inside a text file
 2. Put your image inside the img folder
 3. Edit the message inside the Python script
-4. Run
+4. Install necessary packages via pip, Anaconda, or similar tool. 
+5. Run
 
 Why I Built It
 I needed to send multiple messages at once, and doing it manually was tedious and stressful.
